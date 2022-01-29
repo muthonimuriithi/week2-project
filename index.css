@@ -1,0 +1,46 @@
+.body{
+
+}
+.header{
+  
+}
+.header div{
+    display: inline-block;
+}
+.logo{
+    width: 20%;
+    background-color: violet;
+
+    margin-right: 50px;
+
+}
+.menu{
+    width: 40%;
+    background-color: springgreen;
+    margin-right: 50px;
+
+}
+.menu li{
+    display:inline-block;
+}
+.member{
+    width: 20%;
+    background-color: sienna;
+}
+.centre{
+    background-color: turquoise;
+    width: 50%;
+    margin-left: 25%;
+
+}
+.centre .raw div{
+    background-color: yellow;
+    align-items: center;
+    display: inline;
+}
+.centre .raw h3
+{
+    display: inline;
+    margin-right: 30px;
+    margin-left: 80px;
+}
