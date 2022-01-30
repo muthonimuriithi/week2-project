@@ -51,13 +51,18 @@
 .column{
     box-shadow: 0px 0px 5px grey;
     border-radius: 50px;
-    width: 100px;
+    width: 150px;
     margin: 20px;
-    height: 250px;
+    height: 300px;
+
 }
 .box1{
     margin-right: 100px;
+
 }
 .box2{
     margin-right: 100px;
+}
+.icon{
+    display: flex;
 }
