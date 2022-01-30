@@ -69,13 +69,34 @@
 .mid .intro{
     align-items: center;
 }
-   
+
 .person{
     display: flex;
+    padding-top: 70px;
 }
 .person1{
     margin-right: 80px;
 }
 .person2{
     margin-right: 80px;
+}
+.vectors{
+    display: flex;
+    align-items: stretch;
+    padding-top: 150px;
+}
+.vector1{
+    margin-right: 50px;
+}
+.vector2{
+    margin-right: 50px;
+}
+.vector3{
+    margin-right: 50px;
+}
+.vector4{
+    margin-right: 50px;
+}
+.vector5{
+    margin-right: 50px;
 }
