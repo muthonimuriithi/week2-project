@@ -7,6 +7,10 @@
 .header div{
     display: inline-block;
 }
+.tin div{
+    background-image: url(images/hero-cover.3.png);
+    position: relative;
+}
 .logo{
     width: 20%;
     background-color: violet;
@@ -24,6 +28,7 @@
 }
 .menu li{
     display:inline-block;
+    margin: 7px;
 }
 .member{
     width: 20%;
@@ -113,7 +118,8 @@
     height: 50px;
     margin-left: 350px;
 }
-.email1{
-
-
+.ball div{
+    justify-items: center;
+    padding-top: 80px;
+    padding-left: 300px;
 }
