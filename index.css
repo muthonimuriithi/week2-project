@@ -66,3 +66,16 @@
 .icon{
     display: flex;
 }
+.mid .intro{
+    align-items: center;
+}
+   
+.person{
+    display: flex;
+}
+.person1{
+    margin-right: 80px;
+}
+.person2{
+    margin-right: 80px;
+}
